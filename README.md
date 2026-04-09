@@ -4,7 +4,7 @@ Site web réalisé dans le cadre de ma Licence Professionnelle LPMI à l'Univers
 
 ## Aperçu
 
-![Screenshot 1](screenshots/screen1.png)
+![Screenshot 1](CaptureEcran/ScreenAccueil)
 ![Screenshot 2](screenshots/screen2.png)
 
 ## Technologies utilisées
